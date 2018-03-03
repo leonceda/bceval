@@ -1,7 +1,9 @@
 ## <center> Challenge Setup
 
 * List Cloud Provider
-``` AWS ```
+```
+AWS 
+```
 
 * List Linux release
 
